@@ -23,12 +23,12 @@ import { SigninComponent } from './auth/signin/signin.component';
 
 
 export const firebaseConfig = {
-    apiKey: "AIzaSyA6Wox6IARST2GJRBFokCJkzROTNKxynUM",
-    authDomain: "inventoryapp-ba230.firebaseapp.com",
-    databaseURL: "https://inventoryapp-ba230.firebaseio.com",
-    projectId: "inventoryapp-ba230",
-    storageBucket: "inventoryapp-ba230.appspot.com",
-    messagingSenderId: "817236521051"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: ""
   };
 
 
